@@ -29,7 +29,7 @@ CyberStrike is a Counter-Strike 2 style FPS built from scratch in C++ with rayli
 | **1v1 Duel** | First to 5 rounds against a bot. One life per round. |
 | **Deathmatch** | 3 minutes free-for-all against 7 bots. |
 | **Casual** | 5v5 bomb defusal with bot teammates. Plant or defuse, first to 8. |
-| **Premier** | Ranked 5v5, first to 13. Climb from Silver to Global Elite; bots get better as you rank up. |
+| **Premier** | Ranked 5v5, first to 13. Climb from Bronze to Global Elite; bots get better as you rank up. |
 | **Online** | Public or private lobbies with a join code: 1v1 and casual. |
 
 ## Maps
@@ -42,7 +42,7 @@ Dust II, Inferno, Nuke and Mirage style layouts, each with A and B bomb sites an
 
 - **Bring your CS2 settings.** Paste your sensitivity and the game matches your cm/360, so muscle memory carries over.
 - **The CS2 arsenal.** AK-47, M4A4, AWP, Deagle, USP-S, Glock, FAMAS, Galil, AUG, SG 553, SSG 08, MP9, MAC-10, MP7, UMP-45, P90, Nova, plus grenades and knives, with a buy menu and round economy.
-- **Cases and skins.** Earn credits by winning, open cases, collect AK and knife skins (Karambit, Butterfly and more), inspect, equip or sell them.
+- **Cases and skins.** Earn credits by winning, open cases, collect AK and knife skins (Karambit, Bayonet, Combat Knife), inspect, equip or sell them.
 - **Accounts and leaderboards.** Log in to save your stats, level and rank, and climb the leaderboards.
 - **Anti-cheat.** Matches with impossible stats don't count, and online hosts check every shot.
 
@@ -57,7 +57,10 @@ Dust II, Inferno, Nuke and Mirage style layouts, each with A and B bomb sites an
 | C / Ctrl | Crouch |
 | Shift | Walk |
 | R | Reload |
-| 1 / 2 / 3 / 4 | Primary / pistol / knife / grenades |
+| 1 / 2 / 3 / 4 / 5 | Primary / pistol / knife / grenades / bomb |
+| Q / Mouse wheel | Last weapon / cycle weapons |
+| F | Inspect weapon |
+| G | Drop weapon or bomb |
 | B | Buy menu |
 | E | Plant / defuse |
 | Tab | Scoreboard |
